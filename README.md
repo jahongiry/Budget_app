@@ -16,6 +16,10 @@
 
 [Live Demo Link](https://budget-app-jy.herokuapp.com/)
 
+## Live description of the project
+
+https://www.loom.com/share/eabf635bde7a427ab3505179e11912c4
+
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
