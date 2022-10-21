@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://budget01app.herokuapp.com/)
+[Live Demo Link]
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -54,11 +54,11 @@ rspec
 ```
 ## Authors
 
-👤 **Chris Siku**
+👤 **Jahongir Yusupov**
 
-- GitHub: [@githubhandle](https://github.com/Chrissiku)
-- Twitter: [@twitterhandle](https://twitter.com/christian_siku)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-siku/)
+- GitHub: [@githubhandle](https://github.com/jahongiry)
+- Twitter: [@twitterhandle](https://twitter.com/jahongir13)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jahngir-yusupov/)
 
 
 ## 🤝 Contributing
